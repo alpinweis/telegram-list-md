@@ -135,6 +135,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 
 ##### Varia / Разное
 
+* [@GBMOnline](https://t.me/GBMOnline) - Сообщество "Город Без Маршруток"
 * [@studio1090](https://t.me/studio1090) - 1090.studio. Discovering emerging talents in Moldova
 * [@AUTOBLOG_MD](https://t.me/AUTOBLOG_MD) - autoblog.md
 * [@AvertizariSHS](https://t.me/AvertizariSHS) - Avertizări Meteo de la Serviciul Hidrometeorologic de Stat
@@ -170,6 +171,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 
 ## Groups/Chats
 
+* [@appl3md](https://t.me/appl3md) - Apple Moldova Community
 * [@bacmoldova](https://t.me/bacmoldova) - Bacalaureat Moldova
 * [@baraholka_moldova](https://t.me/baraholka_moldova) - Baraholka. Vînd, Cumpăr, Schimb / Барахолка. Купля, Продажа
 * [@chatkishineova](https://t.me/chatkishineova) - Chat Chisinau / Чат Кишинев
