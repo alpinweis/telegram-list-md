@@ -179,7 +179,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@winelikealocal](https://t.me/winelikealocal) - Все что надо знать о молдавском вине
 * [@wine_md](https://t.me/wine_md) - Вина Молдавии
 * [@Ungureanu112](https://t.me/Ungureanu112) - Ungureanu 112. Accidente, crime, corupție, poliție
-
+* [@MoldovaOffers](https://t.me/moldovaOffers) - Cкидки в супермаркетах Кишинева
 -------------
 
 ## Groups/Chats
