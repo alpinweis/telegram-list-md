@@ -163,6 +163,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@infotraficmoldova](https://t.me/infotraficmoldova) - INFOTRAFIC MOLDOVA
 * [@kinoreliz](https://t.me/kinoreliz) - Уведомления о выходе цифровых релизов художественных и документальных фильмов
 * [@md_healthlife](https://t.me/md_healthlife) - Секреты здоровья
+* [@MoldovaOffers](https://t.me/moldovaOffers) - Reduceri MD / Cкидки в супермаркетах Кишинева
 * [@moldoveneasca](https://t.me/moldoveneasca) - Muzică Moldovenească / Молдавская музыка
 * [@pacalasitindala](https://t.me/pacalasitindala) - Пэкалэ ши Тындалэ. Молдавские сказочные персонажи
 * [@PiataCentralaChisinau](https://t.me/PiataCentralaChisinau) -  Î.M. Piața Centrală
@@ -179,7 +180,6 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@winelikealocal](https://t.me/winelikealocal) - Все что надо знать о молдавском вине
 * [@wine_md](https://t.me/wine_md) - Вина Молдавии
 * [@Ungureanu112](https://t.me/Ungureanu112) - Ungureanu 112. Accidente, crime, corupție, poliție
-
 -------------
 
 ## Groups/Chats
