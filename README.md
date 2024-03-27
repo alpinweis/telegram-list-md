@@ -99,10 +99,12 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 ##### Personal blogs / Персональные блоги
 
 * [Președintele Maia Sandu](https://t.me/maiasandumd)
+* [Dorin Galben](https://t.me/galbendorin)
 * [Dumitru Ciorici](https://t.me/DumitruCiorici)
 * [Елена Пахомова](https://t.me/ivanovnamd)
 * [Natalia Bostan](https://t.me/nataliabostan)
 * [Виталий Андриевский](https://t.me/VAndrievski)
+* [Veaceslav Cunev](https://t.me/veaceslavcunev)
 * [Veaceslav Ioniță](https://t.me/v_ionita)
 
 ##### Politics / Политика
@@ -143,12 +145,16 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 
 * [@studio1090](https://t.me/studio1090) - 1090.studio. Discovering emerging talents in Moldova
 * [@AUTOBLOG_MD](https://t.me/AUTOBLOG_MD) - autoblog.md
+* [@automobil_md](https://t.me/automobil_md) - Автомобилисты Молдова
 * [@AvertizariSHS](https://t.me/AvertizariSHS) - Avertizări Meteo de la Serviciul Hidrometeorologic de Stat
 * [@Bassovka](https://t.me/bassovka1) - Bassovka Music
 * [@beremoldova](https://t.me/beremoldova) - Bere Moldova
 * [@biblyotecamea](https://t.me/biblyotecamea) - Cărți audio/pdf
 * [@Bitcoinsmd_channel](https://t.me/Bitcoinsmd_channel) - Новости сервиса Bitcoins.md, крипто аналитика
+* [@bizzingan](https://t.me/bizzingan) - BizZingan. Бизнес комьюнити Молдовы. Новости и интервью.
 * [@business_md](https://t.me/business_md) - Платформа бизнесменов Молдовы
+* [@BusinessPagesRO](https://t.me/ybp_md) - Cele mai importante știri despre și pentru business
+* [@BusinessPagesRU](https://t.me/ybp_ru) - Самые важные новости, обзоры, экспертный анализ для бизнеса и о бизнесе
 * [@chsvteme](https://t.me/chsvteme) - Кишинёв в теме. Черный юмор и жесткий троллинг посвященный Кишиневу
 * [@covid19_moldova](https://t.me/covid19_moldova) - COVID-19 Moldova
 * [@cumatru](https://t.me/cumatru) - Твой ироничный гид по Молдове
@@ -157,8 +163,10 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@edufinmd](https://t.me/edufinmd) - Educație financiară
 * [@eleviMoldova](https://t.me/eleviMoldova) - Noutăți pentru elevi
 * [@englezapentrutoti](https://t.me/englezapentrutoti) - Engleza pentru toți
+* [@ExteriorSecuritySystems](https://t.me/ExteriorSecuritySystems) - Sisteme de supraveghere video /  Системы видеонаблюдения
 * [@gamesmd](https://t.me/gamesmd) - Игровые приставки, игры и аксессуары по всей Молдове
 * [@gamestoremd](https://t.me/gamestoremd) - Игры, Акссесуары, PS4 / Xbox One
+* [@gastrozingan](https://t.me/gastrozingan) - GastroZingan. Медиа о гастрономии и ресторанах в Молдове
 * [@HranaPentruCreierPsihologie](https://t.me/hranapentrucreierpsihologie) - Hrană pentru creier / Psihologie
 * [@infotraficmoldova](https://t.me/infotraficmoldova) - INFOTRAFIC MOLDOVA
 * [@kinoreliz](https://t.me/kinoreliz) - Уведомления о выходе цифровых релизов художественных и документальных фильмов
@@ -167,6 +175,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@moldoveneasca](https://t.me/moldoveneasca) - Muzică Moldovenească / Молдавская музыка
 * [@pacalasitindala](https://t.me/pacalasitindala) - Пэкалэ ши Тындалэ. Молдавские сказочные персонажи
 * [@PiataCentralaChisinau](https://t.me/PiataCentralaChisinau) -  Î.M. Piața Centrală
+* [@premierenergymoldova](https://t.me/premierenergymoldova) - Premier Energy Moldova
 * [@preotul](https://t.me/preotul) - Preotul Roșu
 * [@pubgmdroom](https://t.me/pubgmdroom) - PUBG MOLDOVA
 * [@ytORVEXO](https://t.me/ytORVEXO) - ORVEXO. Warzone & PUBG Moldova
@@ -174,24 +183,27 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@risemoldovarussian](https://t.me/risemoldovarussian) - RISE Moldova. Расследования
 * [@socialmediainculise](https://t.me/socialmediainculise) - Promovarea pe Rețelele de Socializare, Publicitate și Marketing Digital
 * [@moldovasport](https://t.me/moldovasport) - Sport Moldova. Молдавская футбольная кэруца
+* [@cx_md](https://t.me/cx_md) - СтопХАМ Молдова
 * [@stydnochisinau](https://t.me/stydnochisinau) - Стыдно, Chișinău!
 * [@triviagram](https://t.me/triviagram) - TriviaGram
 * [@victoriabankclub](https://t.me/victoriabankclub) - Victoriabank Club
 * [@winelikealocal](https://t.me/winelikealocal) - Все что надо знать о молдавском вине
 * [@wine_md](https://t.me/wine_md) - Вина Молдавии
 * [@Ungureanu112](https://t.me/Ungureanu112) - Ungureanu 112. Accidente, crime, corupție, poliție
+* [@VesteSBrand](https://t.me/VesteSBrand) - Haine și încălțăminte sportivă / Спортивная одежда и обувь
+
 -------------
 
 ## Groups/Chats
 
 * [@bacmoldova](https://t.me/bacmoldova) - Bacalaureat Moldova
-* [@baraholka_moldova](https://t.me/baraholka_moldova) - Baraholka. Vînd, Cumpăr, Schimb / Барахолка. Купля, Продажа
 * [@chatkishineova](https://t.me/chatkishineova) - Chat Chisinau / Чат Кишинева
 * [@chiriemd](https://t.me/chiriemd) - Chirie apartamente / Аренда квартир
 * [@moldovachirie](https://t.me/moldovachirie) - Chirie / Аренда
 * [@cnnmd](https://t.me/cnnmd) - Cumătrism și Nănășiе. IT, marketing, reclama
 * [@datingromd](https://t.me/datingromd) - Dating RO/MD
 * [@devmd](https://t.me/devmd) - Discuții la tema Software Development
+* [@devops_moldova](https://t.me/devops_moldova) - Devops Community Moldova
 * [@ecars_md](https://t.me/ecars_md) - Электромобили в Молдове / Automobile electrice în Moldova
 * [@fotomaxmd](https://t.me/fotomaxmd) - Fotomax
 * [@fotovideoMD](https://t.me/fotovideoMD) - Servicii foto-video. Oferte, cereri / Услуги фото-видео
@@ -200,10 +212,12 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@instagrammd](https://t.me/instagrammd) - Promovare reciprocă pe Instagram / Взаимное продвижение в Instagram
 * [@lucrumoldova](https://t.me/lucrumoldova) - Lucru Moldova / Работа Молдова
 * [@maniuqr](https://t.me/maniuqr) - Manichiura / Маникюр
+* [@moldge](https://t.me/moldge) - Moldoveni din Germania
 * [@oferteimobiliarenoi](https://t.me/oferteimobiliarenoi) - Oferte Imobiliare / Предложения Недвижимости
 * [@piatapruncul](https://t.me/piatapruncul) - Piața Auto Moldova / Авто Рынок Молдовы
 * [@radarMD](https://t.me/radarMD) - Filtre, capcane, radare ale Poliției Rutiere
 * [@RidesharingMD](https://t.me/RidesharingMD) - Ridesharing Moldova / Поиск попутчиков
+* [@rustmd](https://t.me/rustmd) - Rust programming Moldova
 * [@telegadeliverymd](https://t.me/telegadeliverymd) - Moldova-Ucraina. Livrare colete / Молдова-Украина. Передача посылок
 * [@telegataxichisinau](https://t.me/telegataxichisinau) - Taxi Chișinău. Поездки по фиксированным ценам
 * [@md_taxi](https://t.me/md_taxi) - Taxi Moldova / Такси Молдова
