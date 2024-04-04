@@ -15,6 +15,9 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [Telegram Links Moldova facebook group](https://www.facebook.com/groups/telegramlinksmd)
 
 
+Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов в Молдове:
+* [Telegram channels Moldova](https://telemetr.io/en/country/moldova)
+
 -----
 
 * [Channels](#channels)
@@ -50,33 +53,42 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@aifmd](https://t.me/aifmd) - Аргументы и факты в Молдове
 * [@bloknotmd](https://t.me/bloknotmd) - Блокнот Молдова
 * [@deschide](https://t.me/deschide) - Deschide.md știri
-* [@stiridiez](https://t.me/stiridiez) - Diez.md știri
 * [@diezmd](https://t.me/diezmd) - Diez.md - Portal informațional
-* [@revistaeamd](https://t.me/revistaeamd) - Revista EA.md
 * [@enewsmd](https://t.me/enewsmd) - eNews.md știri
 * [@gazetasp](https://t.me/gazetasp) - Газета СП. Новости Бельц и Молдовы
+* [@indexMD](https://t.me/indexMD) - Știri Index MD
 * [@itvmoldova](https://t.me/itvmoldova) - Independent TV Moldova
 * [@KpMoldova](https://t.me/KpMoldova) - Комсомольская правда в Молдове
 * [@localsmedia](https://t.me/localsmedia) - Честные новости города Кишинев без цензуры. Locals.md
-* [@selectedbylocals](https://t.me/selectedbylocals) - Только важные, нужные и полезные новости о Кишиневе и Молдове
+* [@md_krot](https://t.me/md_krot) - Молдавский Крот
+* [@moldovaexpress](https://t.me/moldovaexpress) - Молдова Экспресс
+* [@moldovanewsmd](https://t.me/moldovanewsmd) - Moldova NEWS
+* [@moldovarumors](https://t.me/moldovarumors) - Moldova știri
+* [@moldovatelegraph](https://t.me/moldovatelegraph) - Telegraph Moldova știri
+* [@moldovaved](https://t.me/moldovaved)- Vedere Moldova
+* [@onlinemd24](https://t.me/onlinemd24)- Молдова онлайн
 * [@newsmakerlive](https://t.me/newsmakerlive) - NewsMaker.md știri
-* [@indexMD](https://t.me/indexMD) - Știri Index MD
 * [@Noimd_stiri](https://t.me/Noimd_stiri) - Noi.md știri
 * [@Noi_md](https://t.me/Noi_md) - Noi.md - Portal informațional
 * [@listpmrmd](https://t.me/listpmrmd) - Чёрный/Белый Список ПМР
 * [@PointNews](https://t.me/PointNews) - Point.md știri
 * [@prima_sursa_md](https://t.me/prima_sursa_md) - Prima Sursă / Первоисточник
 * [@privesceumoldova](https://t.me/privesceumoldova) - Alerte despre evenimente Live pe [privesc.eu](https://www.privesc.eu) Moldova
+* [@protvchisinauofficial](https://t.me/protvchisinauofficial) - PRO TV Chisinău official
 * [@publikatv](https://t.me/publikatv) - Publika.md știri
 * [@realitateamd](https://t.me/realitateamd) - Realitatea.md știri
 * [@regionalmd](https://t.me/regionalmd) - Regional.md știri
 * [@sinteza_org](https://t.me/sinteza_org) - Sinteza.org știri
 * [@mdsputnikmd](https://t.me/mdsputnikmd) - Sputnik Moldova știri
+* [@revistaeamd](https://t.me/revistaeamd) - Revista EA.md
 * [@rusputnikmd](https://t.me/rusputnikmd) - Sputnik Молдова новости
-* [@moldovatelegraph](https://t.me/moldovatelegraph) - Telegraph Moldova știri
+* [@selectedbylocals](https://t.me/selectedbylocals) - Только важные, нужные и полезные новости о Кишиневе и Молдове
+* [@stiridiez](https://t.me/stiridiez) - Diez.md știri
 * [@stirimd](https://t.me/stirimd) - Știri MD
 * [@TimpulMd](https://t.me/TimpulMd) - Timpul.md știri
+* [@tvrmoldova](https://t.me/tvrmoldova) - TVR MOLDOVA
 * [@tv8md](https://t.me/tv8md) - TV8.md
+* [@unimedia_info](https://t.me/unimedia_info) - UNIMEDIA
 * [@zdgmd](https://t.me/zdgmd) - Ziarul de Gardă
 * [@zugomd](https://t.me/zugomd) - ZUGO știri
 
@@ -92,16 +104,21 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@ParlamentulRM](https://t.me/ParlamentulRM) - Parlamentul Republicii Moldova
 * [@Politia_Republicii_Moldova](https://t.me/Politia_Republicii_Moldova) - Poliția Republicii Moldova
 * [@politiadefrontiera](https://t.me/politiadefrontiera) - Poliția de Frontieră a Republicii Moldova
+* [@primaria_chisinau](https://t.me/primaria_chisinau) - Primăria Chișinău
 * [@Proimobil_md](https://t.me/Proimobil_md) - Compania imobiliară ProImobil
 * [@protectimobil](https://t.me/protectimobil) - Compania imobiliară Protect-Imobil
+* [@ServiciulVamalRM](https://t.me/serviciulvamalrm) - Serviciul Vamal al Republicii Moldova
 * [@StarNetmd](https://t.me/StarNetmd) - Compania StarNet
 
 ##### Personal blogs / Персональные блоги
 
 * [Președintele Maia Sandu](https://t.me/maiasandumd)
 * [Dorin Galben](https://t.me/galbendorin)
+* [Dragoș Galbur](https://t.me/dragosgalbur)
 * [Dumitru Ciorici](https://t.me/DumitruCiorici)
 * [Елена Пахомова](https://t.me/ivanovnamd)
+* [Eugen Luchianiuc](https://t.me/luchianiuc_com)
+* [Iurie Roșca](https://t.me/iurierosca)
 * [Natalia Bostan](https://t.me/nataliabostan)
 * [Виталий Андриевский](https://t.me/VAndrievski)
 * [Veaceslav Cunev](https://t.me/veaceslavcunev)
@@ -110,12 +127,14 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 ##### Politics / Политика
 
 * [Cenzură minimă, exprimare maximă](https://t.me/joinchat/StADVRsyHORpryHd) - Сanal pentru cenzură minimă și exprimare maximă
+* [@insider_md](https://t.me/insider_md) - Insider Moldova
 * [@moldova_cenzura](https://t.me/moldova_cenzura) - Независимое интернет издание cenzura.md
 * [@dmoldova](https://t.me/dmoldova) - Молдова Политика Дайджест
 * [@lustratia](https://t.me/lustratia) - Lustrația
 * [@moldovalibera](https://t.me/moldovalibera) - Moldova Liberă
 * [@MoldovaPolitics](https://t.me/MoldovaPolitics) - Молдавская политика
 * [@politics_md](https://t.me/politics_md) - Noutăți politice
+* [@RadarPolitic](https://t.me/radarpolitic) - Radar Politic
 * [@tokanamd](https://t.me/tokanamd) - Мамалыга и Токана. Размышления об особенностях молдавской политической кухни
 
 ##### Travel / Путешествия
@@ -148,6 +167,7 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@automobil_md](https://t.me/automobil_md) - Автомобилисты Молдова
 * [@AvertizariSHS](https://t.me/AvertizariSHS) - Avertizări Meteo de la Serviciul Hidrometeorologic de Stat
 * [@Bassovka](https://t.me/bassovka1) - Bassovka Music
+* [@beltsy24](https://t.me/beltsy24) - Бельцы 24
 * [@beremoldova](https://t.me/beremoldova) - Bere Moldova
 * [@biblyotecamea](https://t.me/biblyotecamea) - Cărți audio/pdf
 * [@Bitcoinsmd_channel](https://t.me/Bitcoinsmd_channel) - Новости сервиса Bitcoins.md, крипто аналитика
@@ -155,7 +175,8 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@business_md](https://t.me/business_md) - Платформа бизнесменов Молдовы
 * [@BusinessPagesRO](https://t.me/ybp_md) - Cele mai importante știri despre și pentru business
 * [@BusinessPagesRU](https://t.me/ybp_ru) - Самые важные новости, обзоры, экспертный анализ для бизнеса и о бизнесе
-* [@chsvteme](https://t.me/chsvteme) - Кишинёв в теме. Черный юмор и жесткий троллинг посвященный Кишиневу
+* [@casadenebuni](https://t.me/casadenebuni)- Casa de Nebuni
+* [@chsreal](https://t.me/chsreal) - Реальный Кишинев
 * [@covid19_moldova](https://t.me/covid19_moldova) - COVID-19 Moldova
 * [@cumatru](https://t.me/cumatru) - Твой ироничный гид по Молдове
 * [@deconectari](https://t.me/deconectari) - Deconectările serviciilor Apă Canal, Premier Energy și Chișinău-Gaz în mun. Chișinău
@@ -170,6 +191,8 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@HranaPentruCreierPsihologie](https://t.me/hranapentrucreierpsihologie) - Hrană pentru creier / Psihologie
 * [@infotraficmoldova](https://t.me/infotraficmoldova) - INFOTRAFIC MOLDOVA
 * [@kinoreliz](https://t.me/kinoreliz) - Уведомления о выходе цифровых релизов художественных и документальных фильмов
+* [@kishinev24](https://t.me/kishinev24) - Кишинев 24
+* [@live_chisinau](https://t.me/live_chisinau) - Кишинев Live
 * [@md_healthlife](https://t.me/md_healthlife) - Секреты здоровья
 * [@MoldovaOffers](https://t.me/moldovaOffers) - Reduceri MD / Cкидки в супермаркетах Кишинева
 * [@moldoveneasca](https://t.me/moldoveneasca) - Muzică Moldovenească / Молдавская музыка
@@ -179,16 +202,22 @@ Grupul pentru discuții, propuneri și idei / Чат списка для обс�
 * [@preotul](https://t.me/preotul) - Preotul Roșu
 * [@pubgmdroom](https://t.me/pubgmdroom) - PUBG MOLDOVA
 * [@ytORVEXO](https://t.me/ytORVEXO) - ORVEXO. Warzone & PUBG Moldova
+* [@rabota_md_it](https://t.me/rabota_md_it) - IT / Rabota.md
+* [@rabota_md_fara_experienta](https://t.me/rabota_md_fara_experienta) - Fără experiență / Rabota.md
 * [@ratusca](https://t.me/ratusca) - Rățușca cea urâtă / Гадкий утенок. Злободневная острая сатира в виде коротких роликов и статьей.
 * [@risemoldovarussian](https://t.me/risemoldovarussian) - RISE Moldova. Расследования
+* [@salarii_moldova](https://t.me/salarii_moldova) - Salarii în Moldova
 * [@socialmediainculise](https://t.me/socialmediainculise) - Promovarea pe Rețelele de Socializare, Publicitate și Marketing Digital
 * [@moldovasport](https://t.me/moldovasport) - Sport Moldova. Молдавская футбольная кэруца
 * [@cx_md](https://t.me/cx_md) - СтопХАМ Молдова
 * [@stydnochisinau](https://t.me/stydnochisinau) - Стыдно, Chișinău!
+* [@trech_kich](https://t.me/trech_kich) - Треш Киш
 * [@triviagram](https://t.me/triviagram) - TriviaGram
 * [@victoriabankclub](https://t.me/victoriabankclub) - Victoriabank Club
+* [@vtememd](https://t.me/vtememd) - Кишинёв в теме. Черный юмор и жесткий троллинг посвященный Кишиневу
 * [@winelikealocal](https://t.me/winelikealocal) - Все что надо знать о молдавском вине
 * [@wine_md](https://t.me/wine_md) - Вина Молдавии
+* [@wtfmoldova](https://t.me/wtfmoldova) - WTF Moldova?!
 * [@Ungureanu112](https://t.me/Ungureanu112) - Ungureanu 112. Accidente, crime, corupție, poliție
 * [@VesteSBrand](https://t.me/VesteSBrand) - Haine și încălțăminte sportivă / Спортивная одежда и обувь
 
