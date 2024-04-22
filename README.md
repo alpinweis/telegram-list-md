@@ -261,7 +261,6 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 
 * [@alertacutremur_bot](https://t.me/alertacutremur_bot) - Alerte de cutremur de la Insitutul Național de Cercetare pentru Fizica Pământului
 * [@bot1xbetBot](https://t.me/bot1xbetBot) - 1xBet  bot. Pariuri sportive
-* [@chisinau_bot](https://t.me/chisinau_bot) - Chișinău bot / Кишиневский городской бот
 * [@coronavirustats_bot](https://t.me/coronavirustats_bot) - Coronavirus Bot
 * [@Date_Elevi_Bot](https://t.me/Date_Elevi_Bot) - Bot al studenților Centrului de Excelență in informatică
 * [@DexRoBot](https://t.me/DexRoBot) - DEX Bot
