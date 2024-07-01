@@ -11,9 +11,7 @@ Dacă aveți canale, grupuri/chat-uri și bot-uri interesante - vă rugăm să t
 Eсли у вас есть интересные каналы, группы/чаты или боты - пожалуйста присылайте свои предложения. Мы с большим удовольствием расширим сей полезный для всех список.
 
 Grupul pentru discuții, propuneri și idei / Чат списка для обсуждений, предложений и идей:
-* [Telegram List MD Chat](https://t.me/grouplist_md)
 * [Telegram Links Moldova facebook group](https://www.facebook.com/groups/telegramlinksmd)
-
 
 Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов в Молдове:
 * [Telegram channels Moldova](https://telemetr.io/en/country/moldova)
