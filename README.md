@@ -11,9 +11,7 @@ Dacă aveți canale, grupuri/chat-uri și bot-uri interesante - vă rugăm să t
 Eсли у вас есть интересные каналы, группы/чаты или боты - пожалуйста присылайте свои предложения. Мы с большим удовольствием расширим сей полезный для всех список.
 
 Grupul pentru discuții, propuneri și idei / Чат списка для обсуждений, предложений и идей:
-* [Telegram List MD Chat](https://t.me/grouplist_md)
 * [Telegram Links Moldova facebook group](https://www.facebook.com/groups/telegramlinksmd)
-
 
 Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов в Молдове:
 * [Telegram channels Moldova](https://telemetr.io/en/country/moldova)
@@ -62,6 +60,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 * [@listpmrmd](https://t.me/listpmrmd) - Чёрный/Белый Список ПМР
 * [@localsmedia](https://t.me/localsmedia) - Честные новости города Кишинев без цензуры. Locals.md
 * [@md_krot](https://t.me/md_krot) - Молдавский Крот
+* [@Moldova_actually](https://t.me/moldova_actually) - Молдова: Актуально
 * [@moldovaexpress](https://t.me/moldovaexpress) - Молдова Экспресс
 * [@moldovanewsmd](https://t.me/moldovanewsmd) - Moldova NEWS
 * [@moldovarumors](https://t.me/moldovarumors) - Moldova știri
@@ -142,6 +141,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 
 * [@KIVAERO](https://t.me/KIVAERO) - Aeroport Chișinău
 * [@bestofchisinau](https://t.me/bestofchisinau) - Best of Chișinău. Localuri
+* [@guleaimd](https://t.me/guleaimd) - Гуляй, Молдова! Мероприятия, тусовки в Кишиневе
 * [@maeiexplica](https://t.me/maeiexplica) - MAEIE Explică. Călătorește în siguranță
 * [@moldova_gps_map](https://t.me/moldova_gps_map) - Бесплатные GPS-карты Молдовы для Navigate Navigator
 * [@PandaTur1](https://t.me/PandaTur1) - Panda Tur
