@@ -261,6 +261,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 
 ## Bots
 
+* [@NrMoldovaBot](https://t.me/NrMoldovaBot) - Bot colaborativ pentru identificarea numerelor necunoscute
 * [@alertacutremur_bot](https://t.me/alertacutremur_bot) - Alerte de cutremur de la Insitutul Național de Cercetare pentru Fizica Pământului
 * [@bot1xbetBot](https://t.me/bot1xbetBot) - 1xBet  bot. Pariuri sportive
 * [@chisinau_bot](https://t.me/chisinau_bot) - Chișinău bot / Кишиневский городской бот
