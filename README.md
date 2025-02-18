@@ -270,5 +270,6 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 * [@InfomdBot](https://t.me/InfomdBot) - InfoMD bot Moldova
 * [@maibusinessbot](https://t.me/maibusinessbot) - MAIBusinessBot. Балансы, выписки, уведомления
 * [@NovelCoronaVirusBot](https://t.me/NovelCoronaVirusBot) -  Aктуальная статистика распространения коронавируса
+* [@NrMoldovaBot](https://t.me/NrMoldovaBot) - Bot colaborativ pentru identificarea numerelor necunoscute
 * [@PostaMoldovei_Bot](https://t.me/PostaMoldovei_Bot) - Bot oficial Poșta Moldovei
 * [@roataway_bot](https://t.me/roataway_bot) - Timpul de așteptare la stațiile transportului public din Chișinău
