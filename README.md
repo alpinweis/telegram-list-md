@@ -261,7 +261,6 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 
 ## Bots
 
-* [@NrMoldovaBot](https://t.me/NrMoldovaBot) - Bot colaborativ pentru identificarea numerelor necunoscute
 * [@alertacutremur_bot](https://t.me/alertacutremur_bot) - Alerte de cutremur de la Insitutul Național de Cercetare pentru Fizica Pământului
 * [@bot1xbetBot](https://t.me/bot1xbetBot) - 1xBet  bot. Pariuri sportive
 * [@chisinau_bot](https://t.me/chisinau_bot) - Chișinău bot / Кишиневский городской бот
@@ -271,5 +270,6 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 * [@InfomdBot](https://t.me/InfomdBot) - InfoMD bot Moldova
 * [@maibusinessbot](https://t.me/maibusinessbot) - MAIBusinessBot. Балансы, выписки, уведомления
 * [@NovelCoronaVirusBot](https://t.me/NovelCoronaVirusBot) -  Aктуальная статистика распространения коронавируса
+* [@NrMoldovaBot](https://t.me/NrMoldovaBot) - Bot colaborativ pentru identificarea numerelor necunoscute
 * [@PostaMoldovei_Bot](https://t.me/PostaMoldovei_Bot) - Bot oficial Poșta Moldovei
 * [@roataway_bot](https://t.me/roataway_bot) - Timpul de așteptare la stațiile transportului public din Chișinău
