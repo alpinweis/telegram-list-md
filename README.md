@@ -228,6 +228,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 
 ## Groups/Chats
 
+* [@adhdmoldova](https://t.me/adhdmoldova) - ADHD Moldova Community / Сообщество СДВГ Молдова
 * [@bacmoldova](https://t.me/bacmoldova) - Bacalaureat Moldova
 * [@chatkishineova](https://t.me/chatkishineova) - Chat Chisinau / Чат Кишинева
 * [@chiriemd](https://t.me/chiriemd) - Chirie apartamente / Аренда квартир
