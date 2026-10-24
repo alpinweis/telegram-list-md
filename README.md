@@ -71,6 +71,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 * [@Noimd_stiri](https://t.me/Noimd_stiri) - Noi.md știri
 * [@Noi_md](https://t.me/Noi_md) - Noi.md - Portal informațional
 * [@NordNewsMD](https://t.me/nordnewsmd) - Știri din nordul Moldovei / Новости с севера Молдовы
+* [@noutati_moldova](https://t.me/noutati_moldova) - Nouătăți Moldova · Știri azi. Știrile zilei, scurt, cu link spre redacții
 * [@PointNews](https://t.me/PointNews) - Point.md știri
 * [@prima_sursa_md](https://t.me/prima_sursa_md) - Prima Sursă / Первоисточник
 * [@privesceumoldova](https://t.me/privesceumoldova) - Alerte despre evenimente Live pe [privesc.eu](https://www.privesc.eu) Moldova
